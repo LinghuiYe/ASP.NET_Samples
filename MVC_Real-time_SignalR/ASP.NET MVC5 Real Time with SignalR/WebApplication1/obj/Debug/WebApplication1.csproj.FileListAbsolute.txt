@@ -1,0 +1,407 @@
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\MyWork\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\MyWork\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\MyWork\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\MyWork\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\MyWork\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\MyWork\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\MyWork\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\MyWork\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\MyWork\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\MyWork\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\MVC-5 Repository With ORM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\MyWork\Article\MVC5 CRUD Calling Stored Procedure From Entity Framework & Repository Pattern\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.dll
+E:\MyWork\Article\MVC5 CRUD Calling Stored Procedure From Entity Framework & Repository Pattern\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\WebApplication1.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Shashangka\Desktop\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\csc.exe
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\vbc.exe
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\WebApplication1.dll.config
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\WebApplication1.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\WebApplication1.pdb
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Helpers.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Mvc.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Razor.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Razor.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Helpers.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Mvc.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.dll
+E:\MyWork\Article\MVC-5 Repository with SP\MVC5 CRUD Using Generic Repository Pattern\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\csc.exe
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\vbc.exe
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\WebApplication1.dll.config
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\WebApplication1.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\WebApplication1.pdb
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\EntityFramework.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Owin.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Newtonsoft.Json.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Owin.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Helpers.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Http.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Mvc.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Razor.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Webpages.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\EntityFramework.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Owin.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Razor.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Webpages.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Helpers.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Mvc.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\Newtonsoft.Json.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Http.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\bin\System.Web.Http.WebHost.xml
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\obj\Debug\WebApplication1.dll
+E:\MyWork\MVC\RealTime\MVC-5 SignalRDbUpdate\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\csc.exe
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\vbc.exe
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\WebApplication1.dll.config
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\WebApplication1.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\WebApplication1.pdb
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\EntityFramework.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Owin.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Helpers.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Http.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Mvc.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Razor.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\EntityFramework.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Razor.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Helpers.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Mvc.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Http.xml
+E:\MyWork\Article\ASP.NET MVC Real Time with SignalR\ASP.NET MVC Real Time with SignalR\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\WebApplication1.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\EntityFramework.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Owin.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\EntityFramework.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Shashangka\Downloads\Compressed\ASP.NET_MVC_Real_Time_with_SignalR\ASP.NET MVC Real Time with SignalR - Copy\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\csc.exe
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\vbc.exe
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\WebApplication1.dll.config
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\WebApplication1.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\WebApplication1.pdb
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\EntityFramework.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Newtonsoft.Json.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Owin.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Helpers.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Http.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Mvc.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Razor.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\EntityFramework.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Razor.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Helpers.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Mvc.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\Newtonsoft.Json.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Http.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.dll
+C:\ASP.NET_Samples\MVC_Real-time_SignalR\ASP.NET MVC5 Real Time with SignalR\WebApplication1\obj\Debug\WebApplication1.pdb
